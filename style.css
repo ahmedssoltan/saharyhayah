@@ -1,0 +1,208 @@
+body {
+    box-sizing: border-box;
+    font-size: 45px important!;
+  
+font-family: 'Almarai', sans-serif; !important;
+}
+
+.navbar img {
+    width: 50px ;
+    height: 40px;
+}
+*{
+    margin: 0; 
+    padding: 0;
+}
+h1 {
+color: white;
+    font-size: 40px; 
+    text-align: center;
+    font-weight: 700;
+}
+.photo {
+    background-image: url( 1638971690.jpg);
+    width: 100%; 
+    height: 100%;
+    background-attachment: fixed; 
+}
+.imgrgb {
+    width: 100%;
+    height: 100%; 
+    background-size: 100% 100%;
+    background-color: rgb(0,0,0,0.5);
+}
+.navbar {
+width: 100%;
+    height: 55px;
+    
+}
+.photo {
+    text-align: center;
+}
+.photo .type2 {
+color: #fd7e14;
+    font-size: 25px;
+    margin: auto;
+
+
+}
+.photo .type1 {
+color: #fd7e14;
+    font-size: 25px;
+
+}
+
+.type3 {
+    text-align: center;
+    font-size: 25px;
+}
+
+.photo button a {
+    text-decoration: none;
+    color: white;
+}
+.photo button{
+    padding: 15px 32px ;
+    margin: 4px 2px ;
+    border: none;
+    text-decoration: none;
+    color: white;
+    cursor: pointer;
+    
+}
+.cv h5 ,h1{
+    text-align: center;
+    color: #fd7e14;
+    font-size: 25px;
+}
+
+
+
+
+.imgs {
+    background-image: url(163913547040899.jpg);
+    background-size: 100% 100%;
+    background-attachment: fixed;
+}
+
+.n2 {
+    text-align: center; 
+    font-size: 25px;
+}
+.navbar .navbar-brand a {
+    color: 
+}
+.me {
+    width: 25% ; 
+    height: 300px ;
+    text-align: center;
+}
+
+
+.me .line {
+    margin: auto; 
+    height: 5px; 
+    width: 30%;
+    background-color: gold;
+}
+ .me {
+    width: 25%; 
+    text-align: center;
+    display: inline-block;
+
+} 
+
+.me h2 p {
+    width: 30%;
+    height: 30px
+}
+
+.projects {
+
+font-family: 'Markazi Text', serif !important;
+}   
+ .img-fluid img {
+    height: 300px important!;
+    
+}
+.n1 article p ,.n2 article {
+    color: navajowhite;
+    font-size: 25px
+}
+.law img {
+    width: 280px; 
+    height: 250px;
+    border-radius: 20px;
+}
+.protect img {
+    width: 280px; 
+    height: 250px;
+    border-radius: 20px;
+}
+section .img-fluid {
+    height: 250px;
+    width: 90%; 
+    border-radius: 20px;
+}
+section  h2, p {
+    text-align: center;
+    color: white;
+}
+.imgs{
+    background-image: url(163913547040899.jpg); 
+width: 100%; 
+height: 100%; 
+background-attachment: fixed;}
+.imgs .rg{
+    width: 100%; 
+height: 100%; 
+    background-size: 100% 100%; 
+    background-attachment: fixed; 
+    background-color: rgb(0,0,0,0.7);
+}
+.backg{
+    background-image: url( Employment-law-solicitors-1.jpg); 
+width: 100%; 
+height: auto; 
+background-attachment: fixed;
+    background-size: 100% 100%;
+    
+}
+
+.protect h4 {
+    font-size: 25px;
+    color: yellow;
+}
+.law h2 {
+    color: yellow;
+}
+.tex1 h1 , p {
+    text-align: right;
+    color: black;
+}
+.tex1 h1, h3 {
+    text-align: center;
+        font-size: 40px;
+
+}
+.imgs a{
+    text-decoration: none;
+    
+    
+}
+.container-fluid p {
+    text-align: center;
+}
+.container p {
+    text-align: center;
+}
+.bio h3,p {
+    color: bisque;
+}
+.n2 a {
+    text-decoration: none;
+    color: black;
+}
+.tex3 p {
+    color: black;
+}
